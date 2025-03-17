@@ -1,1 +1,4 @@
-
+@media (max-width:500 px){
+  body{
+    background-color:green;}
+}
